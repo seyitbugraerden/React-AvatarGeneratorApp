@@ -16,3 +16,4 @@
 .bi-telephone-fill{color: turquoise;}
 .bi-envelope-fill{color: orange;}
 .text-light button{border-radius: 50%;background-color: transparent;color: white;border: 1px dashed white;}
+.bg{width: 100%;height: 100%;position: fixed;top: 0;left: 0;z-index: -99;filter: brightness(.5);}

@@ -64,6 +64,11 @@ function App() {
           </div>
         ))}
       </div>
+      <img
+        className="bg"
+        src="https://bi-school.ru/wp-content/uploads/2022/07/Biznes-insajt-instrumenty-sovremennogo-upravlentsa.jpg"
+        alt="bg"
+      />
     </>
   );
 }
