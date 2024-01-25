@@ -1,0 +1,18 @@
+#root {
+  max-width: 1640px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.user-meta h5 {display: -webkit-box;-webkit-box-orient: vertical;overflow: hidden;
+  -webkit-line-clamp: 1;text-overflow: ellipsis;}
+
+.avatar{padding-top: 20px;}
+.avatar img{border-radius: 50%;height: 100px;}
+.card{border: 0px;outline: 0px;}
+.user-bio p {display: -webkit-box;-webkit-box-orient: vertical;overflow: hidden;
+-webkit-line-clamp: 1;text-overflow: ellipsis;}
+.bi-linkedin{color: blue;}
+.bi-telephone-fill{color: turquoise;}
+.bi-envelope-fill{color: orange;}
+.text-light button{border-radius: 50%;background-color: transparent;color: white;border: 1px dashed white;}
